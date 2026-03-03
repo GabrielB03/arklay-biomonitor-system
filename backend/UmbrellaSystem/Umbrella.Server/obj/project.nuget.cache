@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "yyYxEBjTR/I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bielb\\OneDrive\\Desktop\\Gabriel\\Projetos para Portfólio\\CSharp\\Arklay-Laboratory-Source\\backend\\UmbrellaSystem\\Umbrella.Server\\Umbrella.Server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bielb\\.nuget\\packages\\google.protobuf\\3.34.0\\google.protobuf.3.34.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.aspnetcore\\2.76.0\\grpc.aspnetcore.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.aspnetcore.server\\2.76.0\\grpc.aspnetcore.server.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.76.0\\grpc.aspnetcore.server.clientfactory.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.core.api\\2.76.0\\grpc.core.api.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.net.client\\2.76.0\\grpc.net.client.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.net.clientfactory\\2.76.0\\grpc.net.clientfactory.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.net.common\\2.76.0\\grpc.net.common.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.tools\\2.76.0\\grpc.tools.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

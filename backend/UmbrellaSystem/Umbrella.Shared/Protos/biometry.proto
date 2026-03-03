@@ -1,0 +1,20 @@
+syntax = "proto3";
+
+option csharp_namespace = "Umbrella.Shared.Protos";
+
+service BiometryMonitor {
+    rpc StreamBiometrics (stream BiometricRequest) returns (BiometricResponse);
+}
+
+message BiometricRequest {
+    string specimen_id = 1;
+    string specimen_type = 2;
+    int32 heart_rate = 3;
+    double mutation_index = 4;
+    string sector = 5;
+    string behavior_mode = 6;
+}
+
+message BiometricResponse {
+    bool acknowledged = 1;
+}

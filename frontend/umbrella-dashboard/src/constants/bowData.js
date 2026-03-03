@@ -1,0 +1,16 @@
+export const BOW_DESCRIPTIONS = {
+    "Zombie": "Result of Arklay Laboratory t-Virus leak. Researchers transformed into cannibalistic creatures. High infection rate through bites, leading to security failure and Raccoon City outskirts incidents.",
+    "Crimson Head": "Unforeseen V-ACT mutation caused by the ε strain. Occurs when a zombie's body is not destroyed, leading to increased agility, claw development, and extreme aggression.",
+    "Cerberus (MA-39)": "Military-grade B.O.W. created by infecting Dobermans with the β strain. Despite skin deterioration, they retain high muscle mass, increased speed, and pack-hunting instincts.",
+    "Hunter Alpha (MA-121)": "Elite combat B.O.W. merging human fertilized eggs with reptilian DNA via t-Virus. Superior intelligence allows them to follow simple commands and execute lethal leap attacks.",
+    "Neptune (FI-03)": "Aquatic bioweapon project involving great white sharks. Subjects show increased size and extreme aggression. Failed to survive outside aquatic environments due to minimal mutation.",
+    "Chimera": "Experimental insect-human hybrid created by grafting fly DNA into human embryos. Capable of scaling walls and ceilings, though development was never refined to Tyrant levels.",
+    "Web Spinner": "Early spider-based B.O.W. created via t-Virus infection. Capable of wall-climbing and acid secretion. Declared unfit for front-line combat due to lack of intelligence and physical strength.",
+    "Black Tiger": "Excessive Web Spinner mutation caused by prolonged t-Virus exposure. Grows 3-6x the normal size and, unlike common Spinners, is capable of producing functional webs.",
+    "Wasp": "Giant mutant wasps created after feeding on Plant 42 pollen. Their stings release a potent V-Poison, making them a critical source for daylight vaccine research.",
+    "Crow": "Scavenger birds infected by consuming t-Virus contaminated meat. Generally harmless unless threatened, but show extreme aggression in flocks. Primary vector for local forest spread.",
+    "Adder": "Native venomous snakes infected with the ε strain. Most exhibit minimal physical change but possess significantly more potent venom. Aggressive hunters that drop from trees onto prey.",
+    "Yawn": "A research specimen snake infected with a specific t-Virus strain. Suffered massive growth and hormonal instability, making it impossible to contain within the mansion's attic.",
+    "Plant 42": "Unique botanical B.O.W. created via accidental t-Virus injection. Its roots feed on Aqua Ring chemicals, allowing it to manipulate vines and drain blood from victims. Vulnerable to V-JOLT.",
+    "Tyrant (T-002)": "The ultimate development of the Tyrant Project. Designed for high intelligence and battlefield dominance. Possesses a Power Limiter that, if disabled, triggers a Super Tyrant mutation.",
+};

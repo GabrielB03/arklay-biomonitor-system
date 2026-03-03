@@ -1,0 +1,2 @@
+obj\Debug\net10.0\Protos/Biometry.cs \
+obj\Debug\net10.0\Protos/BiometryGrpc.cs: Protos/biometry.proto

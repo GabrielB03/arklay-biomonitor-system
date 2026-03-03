@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "UaAj1HiYEtA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bielb\\OneDrive\\Desktop\\Gabriel\\Projetos para Portfólio\\CSharp\\Arklay-Laboratory-Source\\backend\\UmbrellaSystem\\Umbrella.Shared\\Umbrella.Shared.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bielb\\.nuget\\packages\\google.protobuf\\3.34.0\\google.protobuf.3.34.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.core.api\\2.76.0\\grpc.core.api.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.net.client\\2.76.0\\grpc.net.client.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.net.common\\2.76.0\\grpc.net.common.2.76.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\grpc.tools\\2.78.0\\grpc.tools.2.78.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\bielb\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

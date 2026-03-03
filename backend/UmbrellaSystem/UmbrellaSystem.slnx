@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Umbrella.Server/Umbrella.Server.csproj" />
+  <Project Path="Umbrella.Shared/Umbrella.Shared.csproj" />
+  <Project Path="Umbrella.Simulators.Arklay/Umbrella.Simulators.Arklay.csproj" />
+</Solution>

@@ -1,0 +1,6 @@
+@Umbrella.Server_HostAddress = http://localhost:5104
+
+GET {{Umbrella.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
