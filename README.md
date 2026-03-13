@@ -6,7 +6,7 @@ Arklay Bio-Monitor System is a high-fidelity diagnostic dashboard inspired by th
 
 ## Features
 
-- **Real-Time Biometric Telemtry**: Live tracking of Heart Rate (BPM) and Mutation Index for 14 different specimens.
+- **Real-Time Biometric Telemetry**: Live tracking of Heart Rate (BPM) and Mutation Index for 14 different specimens.
 - **Dynamic Threat Assessment**: Visual alerts and card styling changes (red glow) when a specimen reaches "EXTREME" threat levels or critical heart rates.
 - **Smart Data Mapping**: Resilient string-matching logic that synchronizes telemetry even with minor naming variations between backend and frontend.
 - **Authentic UI/UX**: Industrial laboratory aesthetic featuring the Umbrella Corporation branding and specimen-specific technical descriptions.
